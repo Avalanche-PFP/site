@@ -9,7 +9,6 @@ import { MemberIcon } from '../components/MemberIcon'
 export default function Home() {
 	return (
 		<div>
-			<script src="./TW-ELEMENTS-PATH/dist/js/index.min.js"></script>
 			<Header/>
 
 			<Image src="/img/Top.svg" alt='top' width={10000} height={10000}/>
